@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "312435305560",
+    "firebase_url": "https://neon-camera-188114.firebaseio.com",
+    "project_id": "neon-camera-188114",
+    "storage_bucket": "neon-camera-188114.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:312435305560:android:4877130cad356399",
+        "android_client_info": {
+          "package_name": "com.example.kshyo.notificationex"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "312435305560-36dlfchstaukoboqi1ug2fnqmm7j5uge.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.kshyo.notificationex",
+            "certificate_hash": "6c8af592881371a77c35432288f709c62fbd4286"
+          }
+        },
+        {
+          "client_id": "312435305560-qnfg5akrasi9aor3sch70f1llp7ij8m6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC401_qL6t34DV4pN6NqFAPW4toQYlbVGI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "312435305560-qnfg5akrasi9aor3sch70f1llp7ij8m6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
