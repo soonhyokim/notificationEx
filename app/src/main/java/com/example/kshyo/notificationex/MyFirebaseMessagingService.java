@@ -42,7 +42,7 @@ public class MyFirebaseMessagingService extends FirebaseMessagingService {
 
         wakeLock.acquire();
 
-
+//setExactAndAllowWhileIdle() 을 쓰면 될수도
         if (wakeLock != null) {
             wakeLock.release();
             wakeLock = null;
